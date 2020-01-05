@@ -1,3 +1,3 @@
 module.exports = {
-    url: 'mongodb://localhost:27017/easy-notes'
-}
+    url: 'mongodb://mongodbroute-concession-kiosk.apps.us-west-2.starter.openshift-online.com/sampledb'
+};

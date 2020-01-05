@@ -1,0 +1,6 @@
+---
+applications:
+- name: product-nodejs-bootstrap
+  memory: 768M
+  random-route: true
+  path: .

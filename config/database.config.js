@@ -1,3 +1,3 @@
 module.exports = {
-    url: 'mongodb://mongodbroute-concession-kiosk.apps.us-west-2.starter.openshift-online.com/sampledb'
+    url: 'mongodb://172.30.144.17:27017/sampledb'
 };
